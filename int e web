@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="pt"/>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="style.css"
+    h1 style="text-align:center;">site teste</h1>
+<p style="text-align:center;">LOGIN.</p>
+	<title>LOGIN</title>
+</head>
+<body>
+<p style="color:red;">ABAIXO.</p>
+	<i>complete o formulario </i>
+	<form>
+		<p>nome: <input type="text" id="inome" nome id="inome"></p>
+		<p>sobrenome: <input type="text" id="sobrenome" id="isobrenome"></p>
+		<p>senha: <input type="password" name="senha" id="senha"></p>
+		 <input type="checkbox" id="vehicle1" name="vehicle1" value="Bike">
+  <label for="vehicle1"> Masculino</label><br>
+  <input type="checkbox" id="vehicle2" name="vehicle2" value="Car">
+  <label for="vehicle2"> feminino</label><br>
+  <input type="checkbox" id="vehicle3" name="vehicle3" value="Boat">
+  <label for="vehicle3"> Prefiro não dizer</label>
+  <h3>envie aqui</h3>
+ <button style="background-color:black; border-color:red; color:white;">Enviar</button>
+    <p></p>
+      <small>caso precise de ajuda entre em contado!
+        kaique.bomfim@escola.pr.gov.br</small>
+	</form>
+	<style>
+body {
+background-color: Grey;
+}
+</style>
+  <img src="https://static.vecteezy.com/ti/fotos-gratis/t2/8585294-3d-rendering-sport-blue-car-on-white-bakcground-jpg-gratis-foto.jpg alt="carro" width="400" height="300">
+  <h2>Google</h2>
+    <a href="https://www.google.com.br//" target="_blank">inicio!</a> <p>&#128512;</p>
+  <style>a:link {
+  color: blueviolet;
+  background-color: white;
+  text-decoration: none;
+}
+a:visited {
+  color: darkred;
+  background-color: blueviolet;
+  text-decoration: none;
+}
+a:hover {
+  color: red;
+  background-color: transparent;
+  text-decoration: underline;
+}
+a:active {
+  color: yellow;
+  background-color: transparent;
+  text-decoration: underline;
+}
+</style>
+</style>
+</body>
+</html>
